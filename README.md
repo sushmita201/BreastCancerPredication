@@ -1,4 +1,4 @@
-# BreastCancerPredication
+# Breast Cancer Predication Using Machine Learning with python
 ## 1.Problem definition 
 Predict whether the cancer is benign or malignant
 ## 2.Data
